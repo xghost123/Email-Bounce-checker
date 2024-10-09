@@ -4,3 +4,7 @@ A simple Bulk Email Validator V2
 
 # Credit to xghost123 Telegram:@xghost123
 
+# Disclaimer
+
+This script was developed to demonstrate how Email Validation operate.
+It is intended solely for educational and research purposes.
