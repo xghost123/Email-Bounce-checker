@@ -8,3 +8,13 @@ A simple Bulk Email Validator V2
 
 This script was developed to demonstrate how Email Validation operate.
 It is intended solely for educational and research purposes.
+
+## ✨ DONATE Buy Me Coffee
+
+    BTC - 
+    LTC - 
+    TRX - 
+    ETH - 
+    USDT ERC20 - 
+    USDT BEP20 - 
+    USDT TRC20 - 
